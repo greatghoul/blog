@@ -15,7 +15,7 @@ permalink: /about/
 ## 我的联系方式
 
 * [Twitter](https://twitter.com/greatghoul) - 不是经常上，但偶尔去看一眼
-* [微博](https://twitter.com/greatghoul) - 常去的地方，可以来这里勾搭我
+* [微博](https://weibo.com/greatghoul) - 常去的地方，可以来这里勾搭我
 * 微信 (`greatghoul`) - 日常最多使用，欢迎勾搭
 * 邮箱 (`greatghoul@gmail.com`) - 我是邮箱重度用户，欢迎给我写信
 
