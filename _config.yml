@@ -28,7 +28,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+permalink: /post/:slug/
+
+# Config paginate
 paginate: 10
 paginate_path: /page/:num/
-
-permalink: /post/:slug/
