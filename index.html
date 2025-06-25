@@ -3,10 +3,10 @@ layout: default
 title: Ask and learn
 ---
 
-<div class="row">
+<div class="post-list">
 {% for post in paginator.posts %}
   {% include post.html %}
 {% endfor %}
+</div>
 
 {% include pagination.html %}
-</div>

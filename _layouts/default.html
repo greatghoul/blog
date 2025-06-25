@@ -9,8 +9,6 @@
 
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
-  <link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-  <link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="/assets/site.css" />
 
   <!-- Google tag (gtag.js) -->
@@ -24,16 +22,31 @@
   </script>
 </head>
 <body>
-  {% include header.html %}
+  <div class="container">
 
-  <div class="outer">
-    {{ content }}
+    <header>
+      <h1>Ask and Learn</h1>
+
+      <nav class="navs-main">
+        <a href="/" title="首页">首页</a>
+        <a href="/archive/" title="归档">归档</a>
+        <a href="/feed.xml" title="订阅">订阅</a>
+        <a href="/about/" title="关于">关于</a>
+      </nav>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <div class="copyright">&copy; 2008-2025 greatghoul.</div>
+      <div class="powered">Built with <a href="https://jekyllrb.com/">Jekyll</a></div>
+    </footer>
+
   </div>
 
-  {% include footer.html %}
-
   <script src="https://cdn.bootcss.com/jquery/2.2.3/jquery.min.js"></script>
-  <script src="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
   <script src="/assets/site.js"></script>
 </body>

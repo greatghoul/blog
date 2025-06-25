@@ -1,0 +1,88 @@
+:root {
+  --primary-color: #333333;
+  --secondary-color: #555555;
+}
+
+body {
+  background-color: #fcfcfc;
+  color: var(--primary-color);
+  font-size: 18px;
+}
+
+/* LAYOUT */
+
+.container {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+header, main, footer {
+  margin-bottom: 2em;
+}
+
+footer {
+  margin-top: 4em;
+  text-align: center;
+}
+
+footer > div + div {
+  margin-top: 0.3em;
+}
+
+/* NAVS */
+
+nav a {
+  color: var(--primary-color);
+  text-decoration: none;
+  margin-right: 0.5em;
+  font-weight: 500;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* LINKS */
+
+a {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+a:visited {
+  color: var(--secondary-color);
+}
+
+/* POST LIST */
+
+.post-meta {
+  margin-bottom: 0.2em;
+  color: var(--secondary-color);
+}
+
+.post-title {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  font-weight: 500;
+}
+.post-title a {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+.post-title a:hover {
+  text-decoration: underline;
+}
+
+.post-summary {
+  color: var(--secondary-color);
+}
+
+.post-list .post-item {
+  margin-bottom: 2em;
+}
+
+.post-list > article .post-title {
+  color: var(--primary-color);
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
