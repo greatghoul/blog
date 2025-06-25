@@ -1,10 +1,12 @@
 :root {
   --primary-color: #333333;
   --secondary-color: #555555;
+  --primary-bg-color: #fefefe;
+  --secondary-bg-color: #fafafa;
 }
 
 body {
-  background-color: #fcfcfc;
+  background-color: var(--primary-bg-color);
   color: var(--primary-color);
   font-size: 18px;
 }
@@ -85,4 +87,20 @@ a:visited {
   color: var(--primary-color);
   font-size: 1.2em;
   margin-bottom: 0.5em;
+}
+
+/* POST CONTENT */
+.post-content blockquote {
+  border-left: 5px solid rgba(85, 85, 85, 0.3);
+  padding: 0.5em 1em;
+  margin: 0;
+}
+.post-content pre {
+  background-color: var(--secondary-bg-color);
+  padding: 0.5em 1em;
+  overflow: auto;
+  max-height: 800px;
+}
+.post-content img {
+  max-width: 100%;
 }
