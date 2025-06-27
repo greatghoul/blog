@@ -9,6 +9,22 @@ body {
   background-color: var(--primary-bg-color);
   color: var(--primary-color);
   font-size: 18px;
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+}
+
+/* SITE NAME */
+.site-name {
+  font-family: 'Brush Script MT', cursive, 'Comic Sans MS', sans-serif;
+  font-weight: normal;
+  font-size: 2em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 /* LAYOUT */
@@ -20,6 +36,10 @@ body {
 
 header, main, footer {
   margin-bottom: 2em;
+}
+
+header {
+  text-align: center;
 }
 
 footer {
@@ -103,4 +123,12 @@ a:visited {
 }
 .post-content img {
   max-width: 100%;
+}
+
+/* paginator */
+.paginator {
+  text-align: center;
+}
+.paginator a {
+  margin: 0 1em;
 }
