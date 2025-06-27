@@ -1,6 +1,7 @@
 :root {
   --primary-color: #333333;
   --secondary-color: #555555;
+  --tertiary-color: #777777;
   --primary-bg-color: #fefefe;
   --secondary-bg-color: #fafafa;
 }
@@ -72,7 +73,7 @@ a {
 }
 
 a:visited {
-  color: var(--secondary-color);
+  color: var(--tertiary-color);
 }
 
 /* POST */

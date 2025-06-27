@@ -10,6 +10,6 @@
   </h2>
 
   <div class="post-summary">
-    {{ post.content | strip_html | truncate: 150 }}
+    {{ post.content | truncate_html_text: 150 }}
   </div>
 </article>
