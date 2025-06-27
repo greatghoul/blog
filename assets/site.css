@@ -75,11 +75,24 @@ a:visited {
   color: var(--secondary-color);
 }
 
-/* POST LIST */
+/* POST */
+
+article.post {
+  margin-bottom: 2em;
+}
 
 .post-meta {
   margin-bottom: 0.2em;
   color: var(--secondary-color);
+}
+
+.post-meta .meta {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 1em;
+}
+.post-meta .meta svg {
+  margin-right: 0.3em;
 }
 
 .post-title {

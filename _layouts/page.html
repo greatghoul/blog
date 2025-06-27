@@ -2,26 +2,14 @@
 layout: default
 ---
 
-<div class="page-article">
-  <article class="panel panel-default article">
-    <div class="panel-heading">
-      <h1 class="panel-title article-title">{{ page.title }}</h1>
-    </div>
+<article class="post">
+  <div class="panel-heading">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </div>
 
-    <div class="panel-body">
-      <div class="article-content">
-        {{ content }}
-      </div>
+  <div class="post-content">
+    {{ content }}
+  </div>  
+</article>
 
-      <div class="article-tags">
-        {% for tag in page.tags %}
-          <a href="#{{ tag | slugify }}" class="tag">{{ tag }}</a>
-        {% endfor %}
-      </div>
-    </div>
-    
-    <div class="panel-footer">
-      {% include comments.html %}
-    </div>
-  </article>
-</div>
+{% include comments.html %}
