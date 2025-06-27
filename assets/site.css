@@ -132,3 +132,11 @@ a:visited {
 .paginator a {
   margin: 0 1em;
 }
+
+/* archives */
+
+.archive span {
+  margin-right: 0.5em;
+  font-size: 0.8em;
+  color: var(--secondary-color);
+}
