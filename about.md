@@ -1,7 +1,10 @@
 ---
+slug: about
+permalink: /about/
 layout: page
 title: 关于
-permalink: /about/
+tags: []
+issue: 279
 ---
 
 我叫邱建，网名 [@greatghoul](https://github.com/greatghoul)，是一名生活在西安的三十多岁软件工程师，肥宅并且有些秃顶。
