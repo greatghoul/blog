@@ -20,7 +20,7 @@ jobs:
           ISSUE_DATA: ${{ toJson(github.event.issue) }}
         run: |
           npm install
-          node .github/workflows/post_pub/issue_to_post.js "${ISSUE_DATA}"
+          node .github/workflows/publish_issue.js "${ISSUE_DATA}"
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
