@@ -37,37 +37,82 @@ issue: 279
 - [HabitRPG](https://habitica.com/) - 游戏化的待办事项管理工具，可以组团打怪，已经使用超过10年了。
 - [aText](https://www.trankynam.com/atext/) - 一款 Text Expander 工具，无论是写代码还是敲命令，甚至是斗图，aText 都极大的提高了我的效率。
 
-## 我独立创建的产品
+## 我创造的产品
 
-网站
+### Feather Tools
+https://feathertools.top/
 
-- [Feather Tools](https://feathertools.top/) - 刚开始做的一个轻量的在线工具站，目前也是上线了简单的二维码工具和文本处理工具
-- [远程工作者](https://remote-info.cn/) - 远程工作资讯网站，分享远程工作文章，招聘等信息。
+> 一个轻量的在线工具站，目前也是上线了简单的二维码工具，文本处理工具以及血压记录图表。
 
-小程序
+<img width="2933" height="1060" alt="Image" src="https://github.com/user-attachments/assets/7a10e57f-7603-4844-9d2b-dc2e776c4259" />
 
-- [~~臭爸爸伴读~~](https://www.eqiday.cn/77285.html) - 自制的给女儿讲睡前故事的小程序，主要特性是随机故事，暗色模式（`停止维护`）
+### Link QRCode Generator
+Chrome 浏览器扩展，为当前标签页生成带有网页标题和链接的二维码卡片，主要用于插入到公众号文章中方便用户扫码跳转。
+https://chromewebstore.google.com/detail/link-qrcode-generator/jbadicnkfjhcogmfcbkgdbfefnkekblj?
 
-Awesome List
+<img width="1736" height="773" alt="Image" src="https://github.com/user-attachments/assets/f8de6e84-1bf7-462a-bf74-953087e74320" />
 
-- [远程工作者](https://github.com/greatghoul/remote-working) - 分享远程工作信息的 Awesome List
-- [撕逼](https://github.com/greatghoul/sibi) - V2EX 撕逼事件归档
+### 远程工作者网站
+https://remote-info.cn/
 
-Chrome Extension
+> 远程工作资讯网站，分享远程工作文章，招聘等信息。
 
-- [Saved Search](https://github.com/greatghoul/saved-search) - 管理 Google 搜索关键字的 Chrome 扩展
-- [TransIt](http://gdgxian.org/crx-transit/) - 一个 Chrome 划词翻译的扩展，支持连查多个词 （`停止维护`）
-- [Hubstaff Panel](https://chrome.google.com/webstore/detail/adfckgelfokkfhhmofjokjopmaelmebl/publish-accepted?authuser=0&hl=en-US) - 一个快捷显示 Hubstaff 账户本周工时的 Chrome 扩展 （`停止维护`）
-- [Minecraft Wiki](https://github.com/greatghoul/minecraft-wiki) - 在 Chrome Omnibox 中快速搜索 MineCraft Wiki 条目的 Chrome 扩展（`停止维护`）
-- [Direct Link](https://github.com/GDG-Xian/crx-direct-link) - 修改 Google 搜索结果，点击时跳过网址中转（`停止维护`）
-- [Hilite Me](https://github.com/GDG-Xian/crx-hiliteme) - 给任意富文本编辑器添加语法高亮的 Chrome 扩展（`停止维护`）
+<img width="2914" height="903" alt="Image" src="https://github.com/user-attachments/assets/9ee6ddea-0006-4195-b408-6743c355de2e" />
 
-油猴脚本
+### 图片素材管家
+https://github.com/greatghoul/CrxMediaMate
+
+> 一个 Chrome 扩展，允许您通过右键菜单收集图片素材并添加备注，在管理器中，可以选择图片并生成图文文章和视频。
+
+<img width="2307" height="1201" alt="Image" src="https://github.com/user-attachments/assets/66941833-9994-4d50-bb43-e3307bc0ca79" />
+
+### 臭爸爸伴读 `已下架`
+https://www.eqiday.cn/77285.html
+
+> 给女儿讲睡前故事的小程序，主要特性是随机故事，暗色模式，因为备案总是，已经下架并停止维护。
+
+<img width="1553" height="982" alt="Image" src="https://github.com/user-attachments/assets/6178cb24-84f5-4afe-8efa-091291cfe826" />
+
+### 远程工作者 Awesome List
+https://github.com/greatghoul/remote-working
+
+> 开源在 Github 的 Awesome List, 收集整理远程工作相关的文章，团队，书籍，播客等资源。
+
+<img width="910" height="286" alt="Image" src="https://github.com/user-attachments/assets/1d727a76-8517-4f8e-9527-91d730afd46e" />
+
+### V2EX撕逼事件整理归档 `停止维护`
+https://github.com/greatghoul/sibi
+
+> 收集整理 V2EX 上面的撕逼事件帖子，整理归档。因为吃瓜的心淡了，已经停止更新。
+
+<img width="909" height="286" alt="Image" src="https://github.com/user-attachments/assets/609674f3-4128-4bee-b2f1-4dc928656e91" />
+
+### Saved Search Chrome浏览器扩展
+https://chromewebstore.google.com/detail/saved-search/jflpdngeeiboimjmmcfbkkckcaimafbj
+
+> 管理 Google 搜索关键字的 Chrome 扩展
+
+<img width="2910" height="982" alt="Image" src="https://github.com/user-attachments/assets/52cc3dc3-edd5-4a61-a372-cc42727f567a" />
+
+### Transit 划词翻译扩展 `已下架`
+https://github.com/greatghoul/smooth-translator
+
+> 一个 Chrome 划词翻译的扩展，支持连查多个词, 不干扰阅读进程。因为 Chrome 扩展机制升级，已经下架，停止维护。
+
+<img width="3232" height="988" alt="Image" src="https://github.com/user-attachments/assets/6f89d852-cdd3-441c-abae-a92be1a39907" />
+
+### Direct Link `已下架`
+https://github.com/GDG-Xian/crx-direct-link
+
+> 修改 Google 搜索结果，点击时跳过网址中转，已经下架并停止维护
+
+### 油猴脚本
+
+> 我制作的一些 UserScript 脚本。
 
 - [V2EX 归档助手](https://github.com/greatghoul/sibi/raw/master/tools/save-v2ex.user.js) - 自动合并 V2EX 帖子分页，并导入为 PDF 归档，参考[我为 V2EX 写了个 PDF 导出工具，方便保存撕逼帖子](https://github.com/greatghoul/profile/issues/17) （`停止维护`）
 - [Google Translate Plus](https://openuserjs.org/scripts/greatghoul/Google_Translate_Plus) - 保存 Google 翻译的语言组合，方便快速切换 （`停止维护`）
 - [HabitRPG Shortcut for New Todo](https://openuserjs.org/scripts/greatghoul/HabitRPG_Shortcut_for_New_Todo) - 给 [HabitiRPG](http://habitica.com) 添加快捷键 `n` 快速打开新增任务窗口
-
 
 ## 我参与创造的作品
 
