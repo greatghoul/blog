@@ -135,7 +135,7 @@ article.post {
   overflow: auto;
   max-height: 800px;
 }
-.post-content img {
+.post-content img, video {
   max-width: 100%;
   height: auto;
 }
