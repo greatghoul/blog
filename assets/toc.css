@@ -10,7 +10,7 @@
     border: 1px solid #e0e0e0;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    padding: 15px;
+    padding: 5px 10px;
     z-index: 1000;
     overflow-y: auto;
     font-size: 14px;
@@ -19,21 +19,36 @@
 
 .toc-header {
     font-weight: bold;
-    margin-bottom: 10px;
-    padding-bottom: 8px;
-    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 0;
+    padding: 8px 0;
     color: #333;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.toc-header:hover {
+    color: #007acc;
 }
 
 .toc-list {
     list-style: none;
-    margin: 0;
-    padding: 0;
+    margin: 6px 0 0 0;
+    padding: 6px 0 0 0;
+    border-top: 1px solid #e0e0e0;
 }
 
 .toc-item {
     margin: 4px 0;
     padding-left: 0;
+}
+
+/* 目录列表展开/折叠状态 */
+.toc-container.collapsed .toc-list {
+    display: none;
+}
+
+.toc-container:not(.collapsed) .toc-list {
+    display: block;
 }
 
 .toc-link {

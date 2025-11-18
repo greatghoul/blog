@@ -16,6 +16,8 @@
 
         // 创建目录容器
         const tocContainer = createTocContainer();
+        
+        // 创建目录列表
         const tocList = createTocList();
 
         // 遍历标题并生成目录项
@@ -43,7 +45,27 @@
     function createTocContainer() {
         const container = document.createElement('div');
         container.className = 'toc-container';
-        container.innerHTML = '<div class="toc-header">目录</div>';
+        
+        const header = document.createElement('div');
+        header.className = 'toc-header';
+        header.textContent = '目录';
+        
+        // 添加点击事件来切换目录列表的显示/隐藏
+        header.addEventListener('click', function() {
+            const tocList = container.querySelector('.toc-list');
+            if (tocList) {
+                const isExpanded = tocList.style.display !== 'none';
+                if (isExpanded) {
+                    tocList.style.display = 'none';
+                    container.classList.add('collapsed');
+                } else {
+                    tocList.style.display = 'block';
+                    container.classList.remove('collapsed');
+                }
+            }
+        });
+        
+        container.appendChild(header);
         return container;
     }
 
