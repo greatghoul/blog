@@ -38,6 +38,14 @@
         // 添加样式
         addTocStyles();
 
+        // 初始检查屏幕宽度并设置折叠状态
+        checkScreenWidthAndToggleToc(tocContainer);
+        
+        // 监听窗口大小变化事件
+        window.addEventListener('resize', function() {
+            checkScreenWidthAndToggleToc(tocContainer);
+        });
+
         // 移除滚动监听功能
     });
 
@@ -155,6 +163,24 @@
     // 添加目录样式（现在通过外部CSS文件加载）
     function addTocStyles() {
         // 样式已通过外部CSS文件加载，无需动态生成
+    }
+
+    // 检查屏幕宽度并自动折叠/展开目录
+    function checkScreenWidthAndToggleToc(tocContainer) {
+        const screenWidth = window.innerWidth;
+        const tocList = tocContainer.querySelector('.toc-list');
+        
+        if (!tocList) return;
+        
+        // 屏幕宽度小于等于768px时自动折叠
+        if (screenWidth <= 1560) {
+            tocList.style.display = 'none';
+            tocContainer.classList.add('collapsed');
+        } else {
+            // 屏幕宽度大于768px时自动展开
+            tocList.style.display = 'block';
+            tocContainer.classList.remove('collapsed');
+        }
     }
 
 })();
