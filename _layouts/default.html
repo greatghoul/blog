@@ -11,15 +11,9 @@
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/site.css" />
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19523104-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', 'UA-19523104-1');
-  </script>
+  {% unless jekyll.environment == "development" %}
+    {% include gtag.html %}
+  {% endunless %}
 </head>
 <body>
   <div class="container">

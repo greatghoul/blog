@@ -12,4 +12,6 @@ layout: default
   </div>  
 </article>
 
-{% include comments.html %}
+{% unless jekyll.environment == "development" %}
+    {% include comments.html %}
+{% endunless %}
