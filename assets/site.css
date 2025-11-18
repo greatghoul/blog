@@ -154,10 +154,33 @@ article.post {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 0.5em;
+  margin-bottom: 0;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  gap: 1em;
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+.archive:nth-child(even) {
+  background-color: var(--secondary-bg-color);
+}
+
+.archive:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  transition: background-color 0.2s ease;
+}
+
+.archive .title {
+  text-decoration: none;
+}
+
+.archive:hover .title {
+  text-decoration: underline;
 }
 
 .archive .pubdate {
   font-size: 0.8em;
   color: var(--secondary-color);
+  white-space: nowrap;
 }

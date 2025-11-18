@@ -6,12 +6,13 @@ permalink: /archive/
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in posts_by_year %}
-  <h3>{{ year.name }}年归档</h3>
-  {% for post in year.items %}
-    <li class="archive">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <span class="pubdate">{{ post.date | date: "%Y年%m月%d日" }}</span>
-    </li>
-  {% endfor %}
-  </ul>
+    <h3>{{ year.name }}年归档</h3>
+    <section>
+        {% for post in year.items %}
+            <a href="{{ post.url }}" class="archive">
+                <span class="title">{{ post.title }}</span>
+                <span class="pubdate">{{ post.date | date: "%m月%d日" }}</span>
+            </a>
+        {% endfor %}
+    </section>
 {% endfor %}
