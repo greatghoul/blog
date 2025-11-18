@@ -1,0 +1,1 @@
+1. 不要自动执行 jekyll build 和 jekyll serve 命令，我会自己做这些操作
