@@ -150,8 +150,14 @@ article.post {
 
 /* archives */
 
-.archive span {
-  margin-right: 0.5em;
+.archive {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5em;
+}
+
+.archive .pubdate {
   font-size: 0.8em;
   color: var(--secondary-color);
 }

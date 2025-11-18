@@ -9,8 +9,8 @@ permalink: /archive/
   <h3>{{ year.name }}年归档</h3>
   {% for post in year.items %}
     <li class="archive">
-      <span class="badge">{{ post.date | date: "%Y年%m月%d日" }}</span>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="pubdate">{{ post.date | date: "%Y年%m月%d日" }}</span>
     </li>
   {% endfor %}
   </ul>
