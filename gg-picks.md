@@ -2,14 +2,15 @@
 slug: gg-picks
 date: 2025-11-18T00:00:00.000Z
 layout: page
-title: 列表 | 老狗拾光的工具/服务/资源推荐
+title: 老狗拾光的工具/服务/资源推荐
 tags: []
 issue: 294
 ---
 
 老狗我觉得不错的工具、服务和资源，分类整理。
 
-- [列表 | 老狗推荐的 Windows 软件](https://www.anl.gg/windows-tools)
+- [列表 - 习惯养成工具推荐](https://anl.gg/post/295-habit-tools/)
+- [列表 - Windows 软件推荐](https://anl.gg/post/293-windows-tools/)
 
 ---
 
