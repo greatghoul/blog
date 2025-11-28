@@ -1,0 +1,25 @@
+---
+layout: default
+title: 老狗拾光精选
+tags: []
+---
+
+<h1>老狗拾光精选</h1>
+<p>老狗尝试过的觉得不错的工具/服务/资源，整理分享给大家。</p>
+
+{% assign picks = site.pages | where: "layout", "page" | where_exp: "page", "page.path contains 'picks/'" | sort: "title" %}
+
+{% if picks.size > 0 %}
+    <section>
+        {% for pick in picks %}
+            {% if pick.title and pick.url != page.url %}
+                <a href="{{ pick.url }}" class="archive">
+                    <span class="title">{{ pick.title }}</span>
+                    <span class="pubdate">{{ pick.date | date: "%Y-%m-%d" }}</span>
+                </a>
+            {% endif %}
+        {% endfor %}
+    </section>
+{% else %}
+    <p>暂无精选内容</p>
+{% endif %}
