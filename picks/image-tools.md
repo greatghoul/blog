@@ -39,6 +39,16 @@ https://github.com/tasy5kg/CuteGIF
 
 <img width="1381" height="961" alt="Image" src="https://github.com/user-attachments/assets/42b7ccb8-d61c-4edc-bb2a-a17925800b24" />
 
+### SVG Converter - SVG和其它图片格式或PNG互转
+
+https://svgconverter.com/
+
+> 想要将图片从 SVG 转换成 JPG, PNG 或者 PDF 可以使用这个工具，虽然也提供了其它格式转换为 SVG 的功能，不过效果并不理想。这个网站其实还是魔幻的，站长还注册了 png2svg.com 和 svgtojpg.com 等一系列域名。
+
+<img width="1728" height="573" alt="Image" src="https://github.com/user-attachments/assets/bc00e6a3-90e7-4668-93b6-ad6ea802e4e7" />
+
+
+
 ---
 
 微信公众号**老狗拾光**，欢迎关注。
