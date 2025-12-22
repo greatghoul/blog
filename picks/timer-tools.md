@@ -50,7 +50,7 @@ https://timerdoro.com/
 
 > 简洁的网页计时器，支持创建多个计时器以及计时器串联。
 
-<img width="2048" height="1140" alt="Image" src="https://github.com/user-attachments/assets/f0d9d953-cf42-4aae-8594-d48efec6f32b" />
+<img width="2020" height="773" alt="Image" src="https://github.com/user-attachments/assets/5b578138-f6bd-4175-8a19-bacaeec14f9d" />
 
 ### Online Timer with Alarm
 
