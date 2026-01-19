@@ -32,6 +32,11 @@ https://www.mazegenerator.net/
 > 支持多种形状迷宫的生成，可以进行简单的定制，支持生成迷宫解法路径。可以导出为 PDF/图片/SVG等多种格式，方便重新排版和打印。
 <img width="785" height="289" alt="Image" src="https://github.com/user-attachments/assets/6ffc8093-fe72-4a99-b221-aaf64758f5bb" />
 
+### KROKOTAK - Craft & Coloring
+https://print.krokotak.com/category?id=craft%2Dcoloring&start=30
+> 面向幼儿的纸模，剪纸，填色，谜题等模板，用于锻炼幼儿的动手能力和精细动作。
+<img width="3440" height="1107" alt="Image" src="https://github.com/user-attachments/assets/e81169dd-523e-4046-88e6-81a7203704f9" />
+
 ---
 
 微信公众号**老狗拾光**，欢迎关注。
