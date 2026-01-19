@@ -2,7 +2,7 @@
 slug: printable-tools
 date: '2026-01-17'
 layout: page
-title: '[精选] 可打印资源'
+title: '[精选] 可打印资源推荐'
 tags: []
 issue: 301
 ---
