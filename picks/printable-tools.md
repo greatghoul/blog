@@ -37,6 +37,13 @@ https://print.krokotak.com/category?id=craft%2Dcoloring&start=30
 > 面向幼儿的纸模，剪纸，填色，谜题等模板，用于锻炼幼儿的动手能力和精细动作。
 <img width="3440" height="1107" alt="Image" src="https://github.com/user-attachments/assets/e81169dd-523e-4046-88e6-81a7203704f9" />
 
+### SuperColoring - 可打印的涂色页和纸艺
+https://www.supercoloring.com/zh-cn/
+
+> 这是一个图片和PDf资源网站，收录了很多免费的涂色页，以及纸艺的PDF文件，适合打印出来给儿童玩耍。
+
+<img width="938" height="616" alt="Image" src="https://github.com/user-attachments/assets/910a2bdc-89bb-4070-9295-43683cfc86be" />
+
 ---
 
 微信公众号**老狗拾光**，欢迎关注。
