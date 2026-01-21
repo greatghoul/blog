@@ -48,7 +48,7 @@ https://www.supercoloring.com/zh-cn/
 
 https://hldgaofeng.github.io/oralcalc/
 
-> 小学生口算题自动生成程序，这是一个定制型很强的口算题生成程序，支持各种混合运算，可能精确控制运算符，运算范围，对于排版也可以简单定制。
+> 小学生口算题自动生成程序，这是一个定制性很强的口算题生成程序，支持各种混合运算，可以精确控制运算符，运算范围，对于排版也可以简单定制。
 
 <img width="1430" height="995" alt="Image" src="https://github.com/user-attachments/assets/ff36a8cc-7304-46da-b626-24dc29f0564c" />
 
