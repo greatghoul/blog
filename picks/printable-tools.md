@@ -44,6 +44,14 @@ https://www.supercoloring.com/zh-cn/
 
 <img width="938" height="616" alt="Image" src="https://github.com/user-attachments/assets/910a2bdc-89bb-4070-9295-43683cfc86be" />
 
+### 小学生口算题自动生成程序
+
+https://hldgaofeng.github.io/oralcalc/
+
+> 小学生口算题自动生成程序，这是一个定制型很强的口算题生成程序，支持各种混合运算，可能精确控制运算符，运算范围，对于排版也可以简单定制。
+
+<img width="1430" height="995" alt="Image" src="https://github.com/user-attachments/assets/ff36a8cc-7304-46da-b626-24dc29f0564c" />
+
 ---
 
 微信公众号**老狗拾光**，欢迎关注。
