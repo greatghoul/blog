@@ -52,6 +52,17 @@ https://hldgaofeng.github.io/oralcalc/
 
 <img width="1430" height="995" alt="Image" src="https://github.com/user-attachments/assets/ff36a8cc-7304-46da-b626-24dc29f0564c" />
 
+
+###  计算题大全 - 小学各年级数学计算题
+
+https://jisuanti.bmcx.com/
+
+> 与之前需要自己配置题型的数学题生成器不同，这个网站提供按小学各年级教材要求预告配置好的题型混合运算的题目，支持简单的设置题目数量打印，非常适合懒人型家长。
+
+<img width="931" height="791" alt="Image" src="https://github.com/user-attachments/assets/d29839a2-a06e-49bf-ab36-dd5e4853324a" />
+
+
+
 ---
 
 微信公众号**老狗拾光**，欢迎关注。
