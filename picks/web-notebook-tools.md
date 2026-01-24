@@ -17,6 +17,14 @@ issue: 302
 
 <img width="1852" height="1064" alt="Image" src="https://github.com/user-attachments/assets/e510209b-071b-49bd-9b40-1bc6bc571fb1" />
 
+### Voice Notepad
+
+https://dictation.io/speech
+
+> 这个网页笔记本工具支持简单的排版，比如加粗，颜色，项目符号，不过它的特色是语音输入功能，使用的 Google 语音输入，支持的语言不少，不过识别率可能没有专门的语音输入应用那么高。如果仅仅编辑笔记，这个工具并不会保存你的内容到服务器，只是浏览器本地存储，不过如何使用语音输入，因为用到 Google 服务，所以可能会有数据传输。
+
+<img width="1995" height="1229" alt="Image" src="https://github.com/user-attachments/assets/8c6cfac9-d91e-4d5f-8d98-6c5c4c930b91" />
+
 ---
 
 微信公众号**老狗拾光**，欢迎关注。
