@@ -25,6 +25,14 @@ https://dictation.io/speech
 
 <img width="1995" height="1229" alt="Image" src="https://github.com/user-attachments/assets/8c6cfac9-d91e-4d5f-8d98-6c5c4c930b91" />
 
+### Shrib - Online Notepad with Privacy and Publishing
+
+https://shrib.com/
+
+> 一个非常简洁的在线记事本软件，它支持简单的文本编辑（支持 Markdown 语法），并且支持自动保存到云端，会为每个笔记生成一个永久链接，方便分享给别人查看和修改，如果你需要记录隐私敏感的信息，这点需要格外注意。
+
+<img width="2323" height="1318" alt="Image" src="https://github.com/user-attachments/assets/13c448a2-7c50-4708-8675-ca684f9f1c93" />
+
 ---
 
 微信公众号**老狗拾光**，欢迎关注。
