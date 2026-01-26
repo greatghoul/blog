@@ -29,6 +29,14 @@ https://dimmy.club/
 
 <img width="625" height="373" alt="Image" src="https://github.com/user-attachments/assets/59adf2d3-d7de-45d0-b259-f36b3bbc7e2c" />
 
+### Screenly - 为截图设置 macOS 风格的边框
+
+https://screely.com/
+
+> 只支持给截图增加 macOS 风格边框，不过效果很不错，而且功能也更简洁，可以选择容器类型和按钮类型以及留白大小，操作非常简便。
+
+<img width="3440" height="1229" alt="Image" src="https://github.com/user-attachments/assets/b3ce2ce9-04a1-453f-b058-ec6fa1ce71bf" />
+
 ## 格式转换
 
 ### CuteGIF - 视频转换为 GIF 动图
