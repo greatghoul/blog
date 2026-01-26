@@ -33,6 +33,14 @@ https://shrib.com/
 
 <img width="2323" height="1318" alt="Image" src="https://github.com/user-attachments/assets/13c448a2-7c50-4708-8675-ca684f9f1c93" />
 
+### Online Notepad
+
+https://onlinenotepad.org/notepad
+
+> 这个工具更像是一个本地记事本软件那样的UI，完全浏览器本地存储，自动保存，刷新页面内容也不会丢失，数据安全，支持更换字体和字号，可以快速输入日期和一些特殊符号。支持保存文件和读取本地文件。基本就是一个 Windows 记事本的复刻。虽然页面有一些广告，不过可以支持全屏时隐藏广告。
+
+<img width="1466" height="805" alt="Image" src="https://github.com/user-attachments/assets/30f2b291-0101-412e-89b1-460a8a31e138" />
+
 ---
 
 微信公众号**老狗拾光**，欢迎关注。
