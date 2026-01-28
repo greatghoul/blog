@@ -41,6 +41,14 @@ https://onlinenotepad.org/notepad
 
 <img width="1466" height="805" alt="Image" src="https://github.com/user-attachments/assets/30f2b291-0101-412e-89b1-460a8a31e138" />
 
+### Memo Notepad
+
+https://www.memonotepad.com/
+
+> 很复古风格的一个在线记事本工具，木纹材质的背景，写东西非常舒适，支持创建多条笔记，以及简单的搜索。在未登录状态下，仅支持浏览器本地存储，刷新页面内容也不会丢失。也可以选择创建用户来保存到笔记工具的服务器上。
+
+<img width="1624" height="619" alt="Image" src="https://github.com/user-attachments/assets/cab1ebb9-995e-4ec8-9843-c3c0576acd0d" />
+
 ---
 
 微信公众号**老狗拾光**，欢迎关注。
