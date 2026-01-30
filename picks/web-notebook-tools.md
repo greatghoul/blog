@@ -55,8 +55,7 @@ https://notepad-online.com/en/
 
 > 简洁的在线记事本工具，支持简单的富文本样式，它有两个版本，新版本支持建立多条笔记和更换页面配色和字体等，两个版本都使用浏览器本地存在，刷新页面数据并不会丢失，你的数据是你自己的。
 
-<img width="555" height="342" alt="Image" src="https://github.com/user-attachments/assets/168e034e-0ff4-4252-834e-6994fccdbe69" />
-
+<img width="833" height="513" alt="Image" src="https://github.com/user-attachments/assets/7a27f6b3-eeb1-4319-9a0a-f19523686928" />
 
 ---
 
