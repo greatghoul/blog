@@ -57,6 +57,15 @@ https://notepad-online.com/en/
 
 <img width="833" height="513" alt="Image" src="https://github.com/user-attachments/assets/7a27f6b3-eeb1-4319-9a0a-f19523686928" />
 
+
+### Notepad - 离线支持
+
+https://notepad.js.org/
+
+> 功能非常强大的网页记事本工具，干净无广告，支持简单的字体段落和背景材质定制，笔记完全使用浏览器本地存储，数据安全，刷新页面数据也不会丢失，甚至支持离线模式，断网也能使用，支持全屏模式和专注模式，相比其它笔记本工具，它还支持画中画模式，可以在桌面右正解显示浮动小窗口，方便在其它标签页或者应用打开时记录笔记；支持计时器和白噪音，
+
+<img width="1019" height="513" alt="Image" src="https://github.com/user-attachments/assets/e2ab2567-bead-4a8f-81e7-9c8300359272" />
+
 ---
 
 微信公众号**老狗拾光**，欢迎关注。
