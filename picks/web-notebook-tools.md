@@ -66,6 +66,15 @@ https://notepad.js.org/
 
 <img width="2238" height="1078" alt="Image" src="https://github.com/user-attachments/assets/996fc296-a3e7-41dc-bb9f-06b0a7f63591" />
 
+### Wordpad - 密码保护
+
+https://wordpad.cc/
+
+> 一个非常简单的在线记事本，界面干净，没有广告，服务端存储，如果需要记录敏感信息，需要谨慎。这个记事本工具支持生成分享链接和设置密码，也算一层案例屏障。
+
+<img width="1962" height="867" alt="Image" src="https://github.com/user-attachments/assets/4754d9b4-d512-49b1-ac0f-4d03b7a0068e" />
+
+
 ---
 
 微信公众号**老狗拾光**，欢迎关注。
