@@ -54,6 +54,12 @@ https://www.hamstercraze.com/
 
 <img width="2224" height="1169" alt="Image" src="https://github.com/user-attachments/assets/1d18860c-5e45-43d7-9745-3b1dd4ac8f1f" />
 
+### 小游戏：仓鼠方块消除
+
+仓鼠主题的俄罗斯方块微信小游戏，提供模拟控制按钮，方便操作。四种模式：练习、休闲、普通、困难。消除食物喂饱仓鼠，获取炸弹和星星特殊方块。
+
+<img width="1280" height="920" alt="Image" src="https://github.com/user-attachments/assets/64adbd74-7bff-480e-884f-8010c2fbee71" />
+
 ### Link QRCode Generator
 Chrome 浏览器扩展，为当前标签页生成带有网页标题和链接的二维码卡片，主要用于插入到公众号文章中方便用户扫码跳转。
 https://chromewebstore.google.com/detail/link-qrcode-generator/jbadicnkfjhcogmfcbkgdbfefnkekblj?
