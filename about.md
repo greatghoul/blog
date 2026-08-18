@@ -5,6 +5,7 @@ layout: page
 title: 关于
 tags: []
 issue: 279
+date: '2025-07-14'
 ---
 
 我叫邱建，网名 [@greatghoul](https://github.com/greatghoul)，是一名生活在西安的四十岁软件工程师，肥宅并且有些秃顶。
@@ -40,11 +41,18 @@ issue: 279
 ## 我创造的产品
 
 ### Feather Tools
-https://feathertools.top/
+https://feather-tools.com/
 
 > 一个轻量的在线工具站，目前也是上线了简单的二维码工具，文本处理工具以及血压记录图表。
 
-<img width="2933" height="1060" alt="Image" src="https://github.com/user-attachments/assets/7a10e57f-7603-4844-9d2b-dc2e776c4259" />
+<img width="2233" height="1169" alt="Image" src="https://github.com/user-attachments/assets/a640d47d-8ada-4102-a551-b955ec5a6623" />
+
+### HamsterCraze
+https://www.hamstercraze.com/
+
+点开即玩的网页游戏合集，以仓鼠为主题，复刻经典休闲游戏，仓鼠俄罗斯方块，仓鼠接食物，仓鼠碰碰车，仓鼠迷宫等。
+
+<img width="2224" height="1169" alt="Image" src="https://github.com/user-attachments/assets/1d18860c-5e45-43d7-9745-3b1dd4ac8f1f" />
 
 ### Link QRCode Generator
 Chrome 浏览器扩展，为当前标签页生成带有网页标题和链接的二维码卡片，主要用于插入到公众号文章中方便用户扫码跳转。
@@ -52,12 +60,12 @@ https://chromewebstore.google.com/detail/link-qrcode-generator/jbadicnkfjhcogmfc
 
 <img width="1736" height="773" alt="Image" src="https://github.com/user-attachments/assets/f8de6e84-1bf7-462a-bf74-953087e74320" />
 
-### 远程工作者网站
-https://remote-info.cn/
+### 远程工作者网站 
+https://remote-china.com/
 
-> 远程工作资讯网站，分享远程工作文章，招聘等信息。
+> 远程工作资讯网站，分享远程工作机会和文章等信息，开放投稿。
 
-<img width="2914" height="903" alt="Image" src="https://github.com/user-attachments/assets/9ee6ddea-0006-4195-b408-6743c355de2e" />
+<img width="2246" height="1169" alt="Image" src="https://github.com/user-attachments/assets/b2759793-da63-476d-af7b-2f7140b26dbc" />
 
 ### 图片素材管家
 https://github.com/greatghoul/CrxMediaMate
@@ -69,7 +77,7 @@ https://github.com/greatghoul/CrxMediaMate
 ### 臭爸爸伴读 `已下架`
 https://www.eqiday.cn/77285.html
 
-> 给女儿讲睡前故事的小程序，主要特性是随机故事，暗色模式，因为备案总是，已经下架并停止维护。
+> 给女儿讲睡前故事的小程序，主要特性是随机故事，暗色模式，因为备案问题，已经下架并停止维护。
 
 <img width="1553" height="982" alt="Image" src="https://github.com/user-attachments/assets/6178cb24-84f5-4afe-8efa-091291cfe826" />
 
