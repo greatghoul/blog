@@ -31,16 +31,28 @@ h1, h2, h3, h4, h5, h6 {
 /* LAYOUT */
 
 .container {
-  max-width: 950px;
+  max-width: 1080px;
   margin: 0 auto;
+  padding: 0 1em;
 }
 
-header, main, footer {
+header, footer {
   margin-bottom: 2em;
 }
 
 header {
   text-align: center;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 3em;
+  align-items: start;
+}
+
+main {
+  min-width: 0;
 }
 
 footer {
@@ -74,6 +86,96 @@ a {
 
 a:visited {
   color: var(--tertiary-color);
+}
+
+/* SIDEBAR */
+
+.sidebar {
+  font-size: 0.85em;
+  line-height: 1.5;
+}
+
+.widget {
+  margin-bottom: 2em;
+}
+
+.widget-title {
+  font-size: 0.9em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin: 0 0 0.8em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid rgba(85, 85, 85, 0.25);
+}
+
+.about-widget {
+  text-align: center;
+}
+
+.about-widget .avatar {
+  display: block;
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  margin: 0 auto 0.75em;
+}
+
+.about-widget .nickname {
+  font-weight: 600;
+  font-size: 1.05em;
+  margin-bottom: 0.5em;
+}
+
+.bio {
+  color: var(--secondary-color);
+  margin: 0 0 1em;
+}
+
+.social {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}
+
+.social a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.products {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.products li {
+  margin-bottom: 0.7em;
+}
+
+.products a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.products a:hover {
+  text-decoration: underline;
+}
+
+.product-desc {
+  display: block;
+  color: var(--tertiary-color);
+  font-size: 0.9em;
+}
+
+@media (max-width: 860px) {
+  .layout {
+    grid-template-columns: 1fr;
+    gap: 2em;
+  }
 }
 
 /* POST */

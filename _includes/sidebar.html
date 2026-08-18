@@ -1,0 +1,26 @@
+<aside class="sidebar">
+  <section class="widget about-widget">
+    <img class="avatar" src="https://github.com/greatghoul.png" alt="@greatghoul" width="96" height="96" />
+    <div class="nickname">@greatghoul</div>
+    <p class="bio">{{ site.description }}</p>
+    <ul class="social">
+      <li><a href="https://github.com/greatghoul" rel="noopener" target="_blank">GitHub</a></li>
+      <li><a href="https://twitter.com/greatghoul" rel="noopener" target="_blank">Twitter</a></li>
+      <li><a href="mailto:greatghoul@gmail.com">Email</a></li>
+    </ul>
+  </section>
+
+  <section class="widget products-widget">
+    <h3 class="widget-title">我的产品</h3>
+    <ul class="products">
+      {% for product in site.data.products %}
+        <li>
+          <a href="{{ product.url }}" rel="noopener" target="_blank">{{ product.name }}</a>
+          {% if product.desc %}
+            <span class="product-desc">{{ product.desc }}</span>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+</aside>

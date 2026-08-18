@@ -31,9 +31,13 @@
       </nav>
     </header>
 
-    <main>
-      {{ content }}
-    </main>
+    <div class="layout">
+      <main>
+        {{ content }}
+      </main>
+
+      {% include sidebar.html %}
+    </div>
 
     <footer>
       <div class="copyright">&copy; 2008-2025 GREATGHOUL</div>

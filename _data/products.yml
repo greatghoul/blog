@@ -1,0 +1,35 @@
+- name: Feather Tools
+  url: https://feather-tools.com/
+  desc: 轻量的在线工具站
+
+- name: HamsterCraze
+  url: https://www.hamstercraze.com/
+  desc: 仓鼠主题网页游戏合集
+
+- name: 远程工作者网站
+  url: https://remote-china.com/
+  desc: 远程工作资讯网站
+
+- name: 远程工作者 Awesome List
+  url: https://github.com/greatghoul/remote-working
+  desc: 远程工作资源清单
+
+- name: 远程工作者 Telegram Channel
+  url: https://t.me/s/remote_cn
+  desc: Telegram 频道，分享远程工作相关资讯
+
+- name: Awesome Pigtails Telegram Channel
+  url: https://t.me/s/pigtails
+  desc: Telegram 频道，收集各种可爱的双马尾图片
+  
+- name: Link QRCode Generator
+  url: https://chromewebstore.google.com/detail/link-qrcode-generator/jbadicnkfjhcogmfcbkgdbfefnkekblj
+  desc: Chrome 扩展，带标题和链接的二维码卡片
+
+- name: 图片素材管家
+  url: https://github.com/greatghoul/CrxMediaMate
+  desc: Chrome 扩展，图片素材收集
+
+- name: Saved Search
+  url: https://chromewebstore.google.com/detail/saved-search/jflpdngeeiboimjmmcfbkkckcaimafbj
+  desc: Chrome 扩展，管理 Google 搜索关键字
