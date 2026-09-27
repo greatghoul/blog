@@ -4,6 +4,11 @@ compatibility_date = "2026-09-27"
 # 关闭预览 URL（对应控制台里的 Preview deployments）
 preview_urls = false
 
+# wrangler deploy 之前先构建站点，让仓库自包含，
+# 不依赖控制台里的 Build command 字段
+[build]
+command = "bundle exec jekyll build"
+
 # Jekyll 构建产物作为静态资源，不需要 Worker 脚本逻辑
 [assets]
 directory = "./_site"
