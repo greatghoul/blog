@@ -1,0 +1,10 @@
+name = "blog"
+compatibility_date = "2026-09-27"
+
+# 关闭预览 URL（对应控制台里的 Preview deployments）
+preview_urls = false
+
+# Jekyll 构建产物作为静态资源，不需要 Worker 脚本逻辑
+[assets]
+directory = "./_site"
+not_found_handling = "404-page"
