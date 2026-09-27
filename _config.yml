@@ -34,3 +34,10 @@ permalink: /post/:slug/
 # Config paginate
 paginate: 10
 paginate_path: /page/:num/
+
+# 仓库自身的文件不发布到站点
+exclude:
+  - wrangler.toml
+  - package.json
+  - package-lock.json
+  - README.md
