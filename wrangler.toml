@@ -5,8 +5,11 @@ compatibility_date = "2026-09-27"
 preview_urls = false
 
 # 自定义域名：wrangler deploy 时自动创建并维护 Custom Domain
+# www 绑定到 Worker 只是为了让 Cloudflare 自动创建其 Proxied DNS 记录，
+# 实际请求会先被 Redirect Rule（www -> anl.gg）接管
 routes = [
-  { pattern = "anl.gg", custom_domain = true }
+  { pattern = "anl.gg", custom_domain = true },
+  { pattern = "www.anl.gg", custom_domain = true }
 ]
 
 # wrangler deploy 之前先构建站点，让仓库自包含，
